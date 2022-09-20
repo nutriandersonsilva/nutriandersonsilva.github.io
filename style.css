@@ -1,0 +1,100 @@
+body {
+    background-image:url(/fundo.jpg);
+    text-align: center;
+    color: #283618;
+    font-family: Montserrat, sans-serif; 
+    font-size: 25px;
+    margin: 0;
+    
+}
+
+
+.indice {
+   
+    background-image:url(./perfil.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position-x: 50%;
+    background-position-y: 120px;
+    padding: 450px 450px 350px;
+   
+}
+
+
+.indice-texto h1{  
+    font-style:italic;
+    position: absolute;
+    left: 30%;
+    top: 1px;
+    color: #606C38;
+    font-weight:800;
+    
+ 
+}
+
+
+.indice-texto h2 {
+    text-align: center;
+    width: 70%;
+    top: 560px;
+    color: #606C38;
+    left: 15%;
+    position:absolute;
+
+    
+   
+}
+
+
+.indice-texto ul{
+    text-align: center;
+    left: 45%;
+    top: 620px;
+    position:absolute;
+  
+    
+}
+
+
+h2{
+    color: #606C38;
+}
+
+
+p {
+    margin: 20px 30px;
+}
+
+
+img {
+    mask-image: -moz-linear-gradient(233);
+    border-radius: 25px;
+    position: 50%;
+}
+
+
+li, a { 
+    color: #283618;
+    font-size: 23px;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+.botao {
+    color: #BC6C25;
+    background-color: #FEFAE0;
+    border-radius: 10px;
+    padding: 2.5px 10px;
+    text-decoration: none;
+}
+
+
+       
+
+        
+
+
+
+
